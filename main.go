@@ -3,8 +3,8 @@ package main
 import (
         "fmt"
 	      "log"
-        "github.com/gopkg.in/mgo.v2"
-        "github.com/gopkg.in/mgo.v2/bson"
+        "go/src/github.com/gopkg.in/mgo.v2"
+        "go/src/github.com/gopkg.in/mgo.v2/bson"
 )
 
 type Person struct {
